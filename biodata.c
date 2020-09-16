@@ -9,4 +9,7 @@ int main (){
 	printf("Tempat/Tgl Lahir \t = Surabaya, 18 November 2000 \n ");
 	printf("Fakultas \t\t = Fakultas Ilmu Komputer \n");
 	printf("Program Studi \t\t = Informatika ");
-}		
+	
+	return 0;
+}	
+
